@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Azhar Aufa</h1>
 <h4 align="center">
   Delving into lines of code, drifting through oceans of words. <br>
-  A seeker of stories, a mind for psychology, and a lover of sci-fi.
+  A seeker of stories, a mind for psychology, and a admirer of sci-fi.
 </h4>
 
 ---
