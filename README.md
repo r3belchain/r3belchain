@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 My Simple Skills  
+## 🚀 Things I’ve Learned
 
 ### 🧠 Languages:  
 <p align="left">
