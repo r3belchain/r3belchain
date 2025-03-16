@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Things I’ve Learned
+## 🚀 Skills I’m Developing
 
 ### 🧠 Languages:  
 <p align="left">
