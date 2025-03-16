@@ -6,7 +6,7 @@
 
 ---
 
-### 🌟 About Me  
+## 🌟 About Me  
 - 🔭 I’m currently working on **Floo.ID**
 - 🌱 **Specific Interests:** Cross-border payments, ZK-Protocols for privacy, philosophical fiction, and neuropsychology.
 - 🗣️ **Human Languages:** Indonesian (Native), Java (Native), English (Intermediate)
