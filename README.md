@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Azhar Aufa</h1>
-<h4 align="center">
+<!-- <h4 align="center">
   Delving into lines of code, drifting through oceans of words. <br>
   A seeker of stories, a mind for psychology, and a admirer of sci-fi.
-</h4>
+</h4> -->
 
 ---
 
 ## 🌟 About Me  
-- 🔭 I’m currently working on **Floo.ID**
+
 - 🌱 **Specific Interests:** Cross-border payments, ZK-Protocols for privacy, philosophical fiction, and neuropsychology.
 - 🗣️ **Human Languages:** Indonesian (Native), Java (Native), English (Intermediate)
 
