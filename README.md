@@ -72,4 +72,4 @@
 
 - 📧 Email: [azharaufa.va@gmail.com](mailto:azharaufa.va@gmail.com)  
 - 💻 GitHub: [r3belchain](https://github.com/r3belchain)
-- 📝 Medium: [@azhar aufa](https://medium.com/@azharaufa)
+- 📝 Medium: [Azhar Aufa](https://medium.com/@azharaufa)
