@@ -61,9 +61,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="40" height="40"/>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT Logo" width="40" height="40"/>
           <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" alt="Claude AI Logo" width="40" height="40">
-          <img src="https://img.icons8.com/?size=100&id=BXsdQPYarISt&format=png&color=228BE6" alt="DeepSeek Logo" width="40" height="40"/>
 
 </p>
 
