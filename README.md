@@ -6,12 +6,6 @@
 
 ---
 
-## 🌟 About Me  
-
-- 🌱 **Specific Interests:** Cross-border payments, ZK-Protocols for privacy, philosophical fiction, and neuropsychology.
-- 🗣️ **Human Languages:** Indonesian (Native), Java (Native), English (Intermediate)
-
----
 
 ## 🚀 Skills I’m Developing
 
