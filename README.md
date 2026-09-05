@@ -1,11 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Azhar Aufa</h1>
-<!-- <h4 align="center">
+<h4 align="center">
   Delving into lines of code, drifting through oceans of words. <br>
-  A seeker of stories, a mind for psychology, and a admirer of sci-fi.
-</h4> -->
+</h4>
 
 ---
-
 
 ## 🚀 Skills I’m Developing
 
@@ -65,11 +63,8 @@
 
 </p>
 
-
 ---
 
 ✨ **Let’s Connect!** 🚀  
-
 - 📧 Email: [azharaufa.va@gmail.com](mailto:azharaufa.va@gmail.com)  
-- 💻 GitHub: [r3belchain](https://github.com/r3belchain)
 - 📝 Medium: [Azhar Aufa](https://medium.com/@azharaufa)
