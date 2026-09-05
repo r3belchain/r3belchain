@@ -3,8 +3,6 @@
   Delving into lines of code, drifting through oceans of words. <br>
 </h4>
 
----
-
 ## 🚀 Skills I’m Developing
 
 ### 🧠 Languages:  
