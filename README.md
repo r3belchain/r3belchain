@@ -50,7 +50,7 @@
 ## 📊 Analytics & Activity Graph
 
 <div align="center">
-  <!-- Activity Graph (Pengganti Stats Card yang reliable) -->
+  <!-- Activity Graph (Mirror Stabil) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=r3belchain&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
   
   <br/><br/>
@@ -58,8 +58,8 @@
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=r3belchain&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="GitHub Streak" />
   
-  <!-- Alternative Working Stats Card Host -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=r3belchain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <!-- Stats Card (Endpoint Alternatif Stabil) -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=r3belchain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
 </div>
 
 ---
